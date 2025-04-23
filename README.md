@@ -19,7 +19,7 @@ REQUIREMENTS
 - A MongoDB database named `News` with two collections:
   - `Real`: contains documents with at least a `title` field (real headlines)
   - `Fake`: contains documents with at least a `title` field (fake headlines)
-  - CSV files to populate MongoDB found [here](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+  - CSV files to populate MongoDB found [here](https://external.ink?to=/https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 Install the required Python package using pip:
 
