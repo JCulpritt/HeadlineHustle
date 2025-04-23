@@ -31,7 +31,7 @@ USAGE
 
 Make sure your MongoDB server is running and the database is properly populated. Then run the script:
 
-    python headline_hustle.py
+    python Game.py
 
 ------------------------------------------------------------
 EXAMPLE DATABASE STRUCTURE
